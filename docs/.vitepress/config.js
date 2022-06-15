@@ -1,4 +1,5 @@
 export default {
+  base: '/english30days/',
   title: 'english 30 days',
   description: 'english 30 days',
   themeConfig: {

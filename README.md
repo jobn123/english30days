@@ -1,8 +1,10 @@
 # 英语口语练习
 
-[这是根据B站北外30天口语背诵训练营整理的资料](https://www.bilibili.com/video/BV1mF411V7tM?p=3&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=2fea99ebb0853b522aa96b00a3837ed4)
+[根据B站北外30天口语背诵训练营整理的资料](https://www.bilibili.com/video/BV1mF411V7tM?p=3&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=2fea99ebb0853b522aa96b00a3837ed4)
 
 30天背诵30篇文章，覆盖生活中各个场景。从而达到英语口语可以随口而出的水平。
+
+[点击查看所有内容](https://zhoubin.cc/english30days/)
 
 ## 方法
 * reciting 背诵
