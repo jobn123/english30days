@@ -16,6 +16,9 @@ export default {
       items: [{
         text: 'Success in Life',
         link: 'day1'
+      }, {
+        text: 'Learning: a Lifelong career',
+        link: 'day2'
       }, ]
     }]
   },

@@ -14,7 +14,7 @@ Dreams bring you hope and happiness. In the process of struggling for it, you cr
 梦想可以给你带来希望和幸福。在为之奋斗的过程中，你流泪，流汗，抱怨甚至诅咒，但是收获的快乐会让你忘掉所有你所经历的痛苦与艰辛。所以老话说的好，不经历风雨，怎能见彩虹。
 :::
 
-There are several keys to success. First your goal must be `practical` and `practicable`. If you set your goal too high, changes are that  you will never attain it. Next, you have to make a plan of doing it. You can take some steps to realize it. Since the process is quite tough, you need to be `diligent`, patient and `preservering`. 
+There are several keys to success. First your goal must be `practical` and `practicable`. If you set your goal too high, chances are that  you will never attain it. Next, you have to make a plan of doing it. You can take some steps to realize it. Since the process is quite tough, you need to be `diligent`, patient and `preservering`. 
 
 ::: details Click me to check translate
 这里有一些成功的秘诀。首先你的目标必须是可达到的。如果你制定的目标过高，你也许永远也无法达到。然后，你必须要制定一个计划。你可以分步骤的实现它。因为过程是艰苦的，你必须勤奋，耐心坚持不懈。
@@ -51,7 +51,7 @@ Even if you meet with some difficulites or `frustrations`, just take them in you
 -  `equate sth with sth` 把什么等同于什么，还有一个相近的是 `regard sth as sth`
 - `foucus all you attention on it` 全力以赴。等同于 `spare no effort to do sth`
 - `what brings you here` 什么风把你吹来的
-- `in thr progress of sth` 在...过程中
+- `in the progress of sth` 在...过程中
 - `make sb do sth` 让某人做某事
 - `go through / be through` 经历
 - `chances are that` 有可能
