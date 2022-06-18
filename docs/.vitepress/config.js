@@ -19,6 +19,9 @@ export default {
       }, {
         text: 'Learning: a Lifelong career',
         link: 'day2'
+      }, {
+        text: 'Jogging',
+        link: 'day3'
       }, ]
     }]
   },
