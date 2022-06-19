@@ -1,6 +1,6 @@
 # Learning: a Lifelong career
 
-As food is to body, so is learning to the mind. Our bodies grow and muscle develop with the `intake` of food. Likewise, we should keep learning day by day to maintain our mental power and expand our `intellectual` `capacity`. 
+As food is to body, so is learning to the mind. Our bodies grow and muscle develop with the `intake` of food. Likewise, we should keep learning day by day to maintain our mental power and expand our `intellectual` s/ɪntɪˈlektʃʊəl/  `capacity`. 
 
 ::: details Click me to check translate
 学习之于心灵，就像食物之于身体一样。摄取了适量的营养食物，我们的身体得以生长肌肉得以发达。同样的，我们应该日复一日的不断学习以保持我们的敏锐的心智能力，并扩充我们智力的容量。

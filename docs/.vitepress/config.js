@@ -22,6 +22,9 @@ export default {
       }, {
         text: 'Jogging',
         link: 'day3'
+      }, {
+        text: 'Body Lanugage',
+        link: 'day4'
       }, ]
     }]
   },
