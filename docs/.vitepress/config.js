@@ -25,7 +25,10 @@ export default {
       }, {
         text: 'Body Lanugage',
         link: 'day4'
-      }, ]
+      }, {
+        text: 'Sleeping',
+        link: 'day5'
+      }]
     }]
   },
   markdown: {
