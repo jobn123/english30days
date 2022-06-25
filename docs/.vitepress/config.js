@@ -28,6 +28,9 @@ export default {
       }, {
         text: 'Sleeping',
         link: 'day5'
+      }, {
+        text: 'Swimming',
+        link: 'day6'
       }]
     }]
   },
