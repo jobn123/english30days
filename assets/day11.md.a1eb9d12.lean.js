@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as s}from"./app.50d61580.js";const f='{"title":"Caring for the Five Senses","description":"","frontmatter":{},"headers":[],"relativePath":"day11.md"}',r={name:"day11.md"},a=s("",11),n=[a];function i(u,h,d,l,p,c){return t(),o("div",null,n)}var _=e(r,[["render",i]]);export{f as __pageData,_ as default};

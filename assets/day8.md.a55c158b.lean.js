@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a}from"./app.50d61580.js";const f='{"title":"The Government of the United States","description":"","frontmatter":{},"headers":[],"relativePath":"day8.md"}',o={name:"day8.md"},n=a("",11),r=[n];function i(c,m,l,h,d,u){return s(),t("div",null,r)}var y=e(o,[["render",i]]);export{f as __pageData,y as default};

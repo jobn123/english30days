@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a}from"./app.50d61580.js";const w='{"title":"How Technology Helps People?","description":"","frontmatter":{},"headers":[],"relativePath":"day12.md"}',n={name:"day12.md"},s=a("",9),p=[s];function r(l,d,i,c,h,_){return t(),o("div",null,p)}var y=e(n,[["render",r]]);export{w as __pageData,y as default};

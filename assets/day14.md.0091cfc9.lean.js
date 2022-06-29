@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.50d61580.js";const u='{"title":"How to run a company","description":"","frontmatter":{},"headers":[],"relativePath":"day14.md"}',i={name:"day14.md"},r=a("",15),n=[r];function p(h,s,l,c,m,d){return o(),t("div",null,n)}var f=e(i,[["render",p]]);export{u as __pageData,f as default};

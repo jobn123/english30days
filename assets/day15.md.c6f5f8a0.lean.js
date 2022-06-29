@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.50d61580.js";const f='{"title":"Importance of communication","description":"","frontmatter":{},"headers":[],"relativePath":"day15.md"}',i={name:"day15.md"},n=o("",11),r=[n];function s(m,c,h,l,p,u){return a(),t("div",null,r)}var _=e(i,[["render",s]]);export{f as __pageData,_ as default};
