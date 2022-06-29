@@ -31,6 +31,33 @@ export default {
       }, {
         text: 'Swimming',
         link: 'day6'
+      }, {
+        text: 'Dragon Boat Festival',
+        link: 'day7'
+      }, {
+        text: 'The Government of the United States',
+        link: 'day8'
+      }, {
+        text: 'Globalization',
+        link: 'day9'
+      }, {
+        text: 'Resources',
+        link: 'day10'
+      }, {
+        text: 'Caring for the Five Senses',
+        link: 'day11'
+      }, {
+        text: 'How Technology Helps People?',
+        link: 'day12'
+      }, {
+        text: 'The American Way of Marriage',
+        link: 'day13'
+      }, {
+        text: 'How to run a company',
+        link: 'day14'
+      }, {
+        text: 'Importance of communication',
+        link: 'day15'
       }]
     }]
   },
